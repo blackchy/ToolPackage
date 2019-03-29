@@ -8,6 +8,7 @@
 
 1. Windows_sign_tool.zip
   * remark: apk签名工具
+2. DoraemonKit.apk
 
 ### 2. Windows安装包
 
