@@ -16,8 +16,11 @@
   *  version : 1.7.17508
   *  update time : 2019/02/12
   *  Official website : [PotPlayer][1]
+2. licecap128-install.exe
+  * Official website : [licecap][2]
 
 ### 3. jar
 1. ZipCenOp.jar
 
 [1]:http://potplayer.daum.net/
+[2]:https://www.cockos.com/licecap/
